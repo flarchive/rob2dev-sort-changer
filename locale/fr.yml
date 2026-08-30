@@ -1,0 +1,10 @@
+rob2dev-sort-changer:
+  admin:
+    settings:
+      default_sort_label: Ordre de tri par défaut des discussions
+      sort_latest: Dernière activité
+      sort_top: Top
+      sort_newest: Plus récentes
+      sort_oldest: Plus anciennes
+
+  forum:

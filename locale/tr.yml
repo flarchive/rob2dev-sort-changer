@@ -1,0 +1,10 @@
+rob2dev-sort-changer:
+  admin:
+    settings:
+      default_sort_label: Varsayılan tartışma sıralama düzeni
+      sort_latest: Son etkinlik
+      sort_top: En popüler
+      sort_newest: En yeni
+      sort_oldest: En eski
+
+  forum:
